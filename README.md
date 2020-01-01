@@ -2,7 +2,7 @@
 
 Class Days and Class Times: Monday - Friday, 10:00AM - 4:00PM
 
-Dates: July 15th, 2019 (Monday) - August 23rd, 2019 (Friday)
+Dates: January 2nd, 2020 (Monday) - January 24th, 2020 (Friday)
 
 Room Number: Hunter North 531
 
