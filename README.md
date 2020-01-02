@@ -34,3 +34,23 @@ Daily Schedule (subject to change!)
 3:15PM - 4PM TBD
 
 ---
+
+## Curriculum Index (Tentative, Subject To Change)
+
+- Pre-Bootcamp Material
+
+- Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/02/2020)
+
+- Class Session 13: Project Building I | (01/17/2020)
+
+- Class Session 14: Project Building II | (01/18/2020)
+
+- Class Session 15: Project Building III | (01/20/2020)
+
+- Class Session 16: Project Building IV | (01/21/2020)
+
+- Class Session 17: Project Building V | (01/22/2020)
+
+- Class Session 18: Project Building VI | (01/23/2020)
+
+- Class Session 19: Exit Assessment and Demo Day | (01/24/2020)
