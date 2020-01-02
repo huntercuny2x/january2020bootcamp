@@ -78,3 +78,4 @@ Daily Schedule (subject to change!)
 - [Git and Github Slides](https://drive.google.com/file/d/1L_XvhD7U_n3Fttp8Q_v-M8B6v3IlTjv4/view?usp=sharing)
 
 - [Collaboration Workshop Assignment](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
+   
