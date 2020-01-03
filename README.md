@@ -78,3 +78,19 @@ Daily Schedule (subject to change!)
 - [Git and Github Slides](https://drive.google.com/file/d/1L_XvhD7U_n3Fttp8Q_v-M8B6v3IlTjv4/view?usp=sharing)
 
 - [Collaboration Workshop Assignment](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
+
+**Class Session 2: Javascript Basics Overview, Advanced JS Topics (01/03/2019)**
+
+_Suggested Pre-Reading (you could also consider the first two chapers as well, but the links below are the more complex topics that we will be covering)_
+
+- [Eloquent Javascript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
+
+- [Eloquent Javascript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
+
+- [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
+
+- [JavaScript! slide deck](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing)
+
+- [More JavaScript! slide deck](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing)
+
+- [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
