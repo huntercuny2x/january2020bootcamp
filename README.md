@@ -94,3 +94,17 @@ _Suggested Pre-Reading (you could also consider the first two chapers as well, b
 - [More JavaScript! slide deck](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing)
 
 - [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
+
+**Class Session 3: Javascript DOM Manipulation, Chrome Dev Tools (Debugging) (01/04/2019)**
+
+_Suggested Pre-reading_
+
+- [Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
+
+- [Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
+
+- [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+
+- [DOM lecture slides](https://drive.google.com/file/d/14MVz8KCMbsi46oKaegnnYDVasrXy2NGT/view?usp=sharing)
+
+- [DOM / JS Assignment #3](https://drive.google.com/drive/u/0/my-drive)
