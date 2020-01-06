@@ -105,6 +105,8 @@ _Suggested Pre-Reading_
 
 - [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
+- [A Series of DOM Slides](https://www.teaching-materials.org/jsweb/slides/dom#/)
+
 _Material For The Day_
 
 - [DOM lecture slides](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing)
