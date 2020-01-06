@@ -114,3 +114,9 @@ _Material For The Day_
 - [An Introduction to the DOM (Document Object Model) in JavaScript](https://www.youtube.com/watch?v=l-0nPnSvbX8)
 - [Traversing the DOM with JavaScript](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 - [An Introduction to DOM Events with JavaScript](https://www.youtube.com/watch?v=QE1YQnhntgw&list=PLruo2gSoqlej-QjRW25c97socsRiAUVuf&index=10)
+
+- [Assignment #3: DOM Challenges I](https://docs.google.com/document/d/1kY-L3-Nc1tGqcqNZMfxgRvQ6FBvQ6J8fFknki0BE8Ps/edit?usp=sharing)
+
+- [Assignment #4: DOM Challenges II](https://docs.google.com/document/d/1LPxdisEKHdqf9Xs9khDEQzMvtrOWNumcW_h700jP8Z8/edit?usp=sharing)
+
+- [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
