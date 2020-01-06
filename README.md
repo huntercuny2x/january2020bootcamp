@@ -1,4 +1,4 @@
-# Tech Talent Pipeline Residency: Hunter College Fall 2020
+# Tech Talent Pipeline Residency: Hunter College January 2020
 
 Class Days and Class Times:
 
@@ -7,7 +7,7 @@ Monday - Friday, 10:00AM - 4:00PM
 Dates:
 January 2nd, 2020 (Monday) - January 24th, 2020 (Friday)
 
-We will also have two Saturday classes on Jan 11 and 18
+We will also have two Saturday classes on January 11th, 2020 and January 18th, 2020*
 
 Room Number: Hunter North 531
 
@@ -21,17 +21,13 @@ Slack Workspace: https://hunterttpspring2020.slack.com
 
 ---
 
-Daily Schedule (subject to change!)
+Daily Schedule (Subject To Change!)
 
-10:00AM - 11:30PM lecture with guided demos/ students implementing
+**10:00AM - 12:00PM:**: Lecture, Review, Demo, Start Workshop For The Day
 
-11:30PM - 12:30PM extend or replicate demo
+**12:00PM - 1:00PM**: Lunch
 
-12:30PM - 1:15PM lunch
-
-1:15PM - 3:15PM use guided demo concepts in team project
-
-3:15PM - 4PM TBD
+**1:00PM - 4:00PM**: Continuation of Lecture, Complete The Workshops/Homework For The Day
 
 ---
 
@@ -40,6 +36,10 @@ Daily Schedule (subject to change!)
 - Pre-Bootcamp Material
 
 - Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/02/2020)
+
+- Class Session 2: Collaborative Workflow I and Introduction to JS | (01/03/2020)
+
+- Class Session 3: DOM Manipulation | (01/06/2020)
 
 - Class Session 13: Project Building I | (01/17/2020)
 
@@ -65,7 +65,7 @@ Daily Schedule (subject to change!)
 - [Flexbox Froggy Exercise](https://flexboxfroggy.com/)
 - [Flexbox Zombies Exercise](https://mastery.games/p/flexbox-zombies)
 
-**Class Session 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming) (01/02/2019)**
+**Class Session 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming) (01/02/2020)**
 
 - [Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
 
@@ -79,7 +79,7 @@ Daily Schedule (subject to change!)
 
 - [Collaboration Workshop Assignment](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
 
-**Class Session 2: Javascript Basics Overview, Advanced JS Topics (01/03/2019)**
+**Class Session 2: Javascript Basics Overview (01/03/2019)**
 
 _Suggested Pre-Reading (you could also consider the first two chapers as well, but the links below are the more complex topics that we will be covering)_
 
@@ -95,9 +95,9 @@ _Suggested Pre-Reading (you could also consider the first two chapers as well, b
 
 - [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
 
-**Class Session 3: Javascript DOM Manipulation, Chrome Dev Tools (Debugging) (01/04/2019)**
+**Class Session 3: DOM Manipulation (01/06/2020)**
 
-_Suggested Pre-reading_
+_Suggested Pre-Reading_
 
 - [Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
 
@@ -105,6 +105,10 @@ _Suggested Pre-reading_
 
 - [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
-- [DOM lecture slides](https://drive.google.com/file/d/14MVz8KCMbsi46oKaegnnYDVasrXy2NGT/view?usp=sharing)
+_Material For The Day_
 
-- [DOM / JS Assignment #3](https://drive.google.com/drive/u/0/my-drive)
+- [DOM lecture slides](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing)
+
+- [An Introduction to the DOM (Document Object Model) in JavaScript](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+- [Traversing the DOM with JavaScript](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+- [An Introduction to DOM Events with JavaScript](https://www.youtube.com/watch?v=QE1YQnhntgw&list=PLruo2gSoqlej-QjRW25c97socsRiAUVuf&index=10)
