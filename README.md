@@ -144,3 +144,32 @@ _Suggested Pre-Reading_
 - [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
 
 - [Group Project #1 - Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
+
+**Class Session 5: Introduction to External API Requests and ReactJS Continued (01/08/2020)**
+
+- [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html) _Suggested Reading_
+
+- [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) _Suggested Reading_
+
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) _Suggested Reading_
+
+- Lecture slides
+
+  - [AJAX, fetch, and Axios](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing)
+
+  - [Promises](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing)
+
+  - [React Lifecycle](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing)
+
+  - [React Events / Forms](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing)
+
+ - [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
+
+ - [An Approach for a Cancel Button](https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d)
+
+ - [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
+ - [Async/Await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+
+ - [Conditional Rendering: I](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
+- [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
+- [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
