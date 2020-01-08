@@ -41,6 +41,16 @@ Daily Schedule (Subject To Change!)
 
 - Class Session 3: DOM Manipulation | (01/06/2020)
 
+- Class Session 4: Introduction to React | (01/07/2020)
+
+- Class Session 5: Introduction to External API Requests and ReactJS Continued | (01/08/2020)
+
+- Class Session 10: CRUD App I | (01/14/2020)
+
+- Class Session 11: CRUD App II | (01/15/2020)
+
+- Class Session 12: CRUD App III | (01/16/2020)
+
 - Class Session 13: Project Building I | (01/17/2020)
 
 - Class Session 14: Project Building II | (01/18/2020)
