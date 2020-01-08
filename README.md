@@ -183,3 +183,15 @@ _Suggested Pre-Reading_
  - [Conditional Rendering: I](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
 - [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
 - [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
+
+<!-- **Class Session 8: Zip/City API Assignment && GIPHY API Assignment Part I | (07/24/2019)** -->
+
+- [Zip/City API Assignment (Assignment "#6")](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
+
+- [GIPHY API Assignment (Assignment "#7")](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
+
+<!-- **Class Session 9: Zip/City API Assignment && GIPHY API Assignment Part II | (07/25/2019)** -->
+
+- [Chrome Extension for JSON Viewing](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+- [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
+- [Async/Await in a HOF](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
