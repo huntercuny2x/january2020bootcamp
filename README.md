@@ -184,6 +184,8 @@ _Suggested Pre-Reading_
 - [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
 - [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
 
+ - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
+
 <!-- **Class Session 8: Zip/City API Assignment && GIPHY API Assignment Part I | (07/24/2019)** -->
 
 - [Zip/City API Assignment (Assignment "#6")](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
