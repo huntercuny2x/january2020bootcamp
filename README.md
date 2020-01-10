@@ -155,7 +155,7 @@ _Suggested Pre-Reading_
 
 - [Group Project #1 - Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
 
-**Class Session 5: Introduction to External API Requests and ReactJS Continued (01/08/2020)**
+**Class Session 5: Introduction to External API Requests and ReactJS Continued (01/07/2020)**
 
 - [React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html) _Suggested Reading_
 
@@ -186,14 +186,21 @@ _Suggested Pre-Reading_
 
  - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
 
-<!-- **Class Session 8: Zip/City API Assignment && GIPHY API Assignment Part I | (07/24/2019)** -->
+**Class Session 6: Zip/City API Assignment && GIPHY API Assignment | (01/08/2020)**
 
 - [Zip/City API Assignment (Assignment "#6")](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
 
 - [GIPHY API Assignment (Assignment "#7")](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
 
-<!-- **Class Session 9: Zip/City API Assignment && GIPHY API Assignment Part II | (07/25/2019)** -->
-
 - [Chrome Extension for JSON Viewing](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
 - [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
 - [Async/Await in a HOF](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
+
+**Class Session 7: React Router and Client-Side Routing In a Single-Page-Application | (01/10/2020)**
+
+- [React Router Resource 1](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
+- [React Router Resource 2](https://reacttraining.com/react-router/web/guides/quick-start)
+- [React Router Resource #3](https://reacttraining.com/react-router/web/guides/philosophy)
+- [React Router Resource #4](https://www.techiediaries.com/react-router-dom-v4/)
+- [React Router Slide Deck](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view?usp=sharing)
+- [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
