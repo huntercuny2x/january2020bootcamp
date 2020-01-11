@@ -204,3 +204,23 @@ _Suggested Pre-Reading_
 - [React Router Resource #4](https://www.techiediaries.com/react-router-dom-v4/)
 - [React Router Slide Deck](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view?usp=sharing)
 - [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
+
+**Class Session 8: Redux | (01/11/2020)**
+
+- [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
+- [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- [Redux / React-Redux Slides](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing)
+- [Redux / React-Redux Slides #2](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing)
+- [Redux Middleware Slides](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing)
+- [Redux Thunk Middleware Slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing)
+
+- [What Thunks Are, What They Solve, and Other Options](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
+
+- [Free "Learn Redux" Course by Wes Bos](https://learnredux.com/)
+- [Redux-Thunk Explanation](https://learn.co/lessons/redux-thunk-readme)
+- [React-Redux Gist](https://gist.github.com/ajLapid718/5597d565c3090955c22ae0e2b6a2ca84)
+- [Redeux](https://github.com/ajLapid718/Redeux)
+  - A repository with different branches containing code that briefly goes over Redux-Thunks, Redux-Saga, Redux-Loop, Redux-Promise, and Redux-Observable
+  - Also a valuable resource to review barrel files, code splitting and organization, combineReducers(), and Redux middleware such as redux-logger
+
+- [Counter and Students Codealong](https://github.com/ajLapid718/counter-reduxify)
