@@ -1,4 +1,4 @@
-# Tech Talent Pipeline Residency: Hunter College January 2020
+# Tech Talent Pipeline Residency: Hunter College January 2020 Bootcamp
 
 Class Days and Class Times:
 
@@ -7,7 +7,7 @@ Monday - Friday, 10:00AM - 4:00PM
 Dates:
 January 2nd, 2020 (Monday) - January 24th, 2020 (Friday)
 
-We will also have two Saturday classes on January 11th, 2020 and January 18th, 2020*
+We will also have two Saturday classes on January 11th, 2020 and January 18th, 2020**
 
 Room Number: Hunter North 531
 
@@ -43,7 +43,15 @@ Daily Schedule (Subject To Change!)
 
 - Class Session 4: Introduction to React | (01/07/2020)
 
-- Class Session 5: Introduction to External API Requests and ReactJS Continued | (01/08/2020)
+- Class Session 5: Introduction to External API Requests and ReactJS | (01/08/2020)
+
+- Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/09/2020)
+
+- Class Session 7: React Router and Client-Side Routing in a SPA | (01/10/2020)
+
+- Class Session 8: State Management with Redux and React-Redux | (01/11/2020)
+
+- Class Session 9: Introduction to NodeJS | (01/13/2020)
 
 - Class Session 10: CRUD App I | (01/14/2020)
 
@@ -227,3 +235,51 @@ _Suggested Pre-Reading_
 
 - [Counter and Students Codealong](https://github.com/ajLapid718/counter-reduxify)
 - ["Counter" Example](https://github.com/ajLapid718/redux-it-counter)
+
+**Class Session 10: Introduction to NodeJS | (01/13/2020)**
+
+- [Intro to Node slides](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing)
+
+- [NPM Slides](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing)
+
+- [JavaScript Conference 2014: The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&t=676) <= _The entire video is recommended to understand Node's async implementation, but the core explanation begins around 11 minutes into the video_
+
+- [NodeJS: Module Exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/) <= _Main Takeaway: A deeper understanding of Node's module system_
+
+- [JavaScript Conference 2019: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
+
+- [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express)
+
+**Class Session 11: Introduction to ExpressJS | (01/14/2020)**
+
+- [Intro to Express slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing)
+
+- [REST API](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing)
+
+**Class Session 12: PostgreSQL/Sequelize I (01/15/2020)**
+
+- [Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
+- [node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
+- [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
+- [SQLBolt Tutorial](https://sqlbolt.com/)
+- [SQLZoo Tutorial](https://sqlzoo.net/)
+- [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
+- [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
+- [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
+- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
+
+<!-- **Class Session 13: PostgreSQL/Sequelize II (01/16/2020)** -->
+- [Introduction To Databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view?usp=sharing)
+- [Introduction To SQL](https://drive.google.com/file/d/1LlIzBeY7KWs8CtNndi7yLunixw8WprWz/view?usp=sharing)
+- [Node-Postgres](https://drive.google.com/file/d/1DG3bbl8Gs59g7k2UqTo6eP_9LyYaZPyu/view?usp=sharing)
+- [Introduction To Schemas](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing)
+- [Introduction To ORMs](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing)
+- [Rounding Out Express and Sequelize](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing)
+- [GitHub Repository Of A Backend For A Sports App](https://github.com/ajlapid718/affiliated)
+  - Involves Node, Express, PostgreSQL, and Sequelize
+- [Under-The-Hood SQL Statements for Sequelize Queries and Methods](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)
+- [Difference Between res.send() and res.json()](https://www.codingdefined.com/2016/06/difference-between-ressend-and-resjson.html)
+
+<!-- **Class Session 20: CORS and Other Middleware and AJAX | (08/09/2019)**
+- [MDN: CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [Nuances of Postman](https://learning.getpostman.com/docs/postman/sending_api_requests/proxy/) -->
